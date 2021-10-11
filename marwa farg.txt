@@ -1,0 +1,7 @@
+mkdir lab
+cd lab
+git init
+touch 
+code 11marwafarg
+git add 11marwafarg
+git commit -m "firstcomment"
